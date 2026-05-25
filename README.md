@@ -1,9 +1,0 @@
-# myskills
-
-## Skills Created/Analyzed
-
-### csharp-crud-scaffolder
-A skill that generates C# ASP.NET Core CRUD (Create, Read, Update, Delete) endpoints following Clean Architecture, CQRS, Repository pattern, and Dapper for data access. It uses templates to scaffold a full vertical slice of application functionality.
-
-### sql-index-analyzer
-A skill designed to analyze C# project files for SQL Server queries and suggest optimal database indexes to improve query performance. It identifies columns used in WHERE, JOIN, ORDER BY, and GROUP BY clauses to recommend appropriate `CREATE INDEX` statements.
